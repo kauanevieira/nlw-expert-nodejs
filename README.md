@@ -57,3 +57,12 @@ npx prisma studio
 npm install zod
 ```
 
+# Aula 2
+
+A decolagem foi um sucesso e agora é hora de avançar. Vamos dar sequência à criação das nossas rotas! Vamos adicionar as opções da votação e, em seguida, vamos implementar as rotas de buscar uma votação pelo ID e a rota para votar na opção selecionada, validando as lógicas de ação do usuário.
+
+## Fastify Cookie
+
+```sh
+npm install fastify/cookie
+```
