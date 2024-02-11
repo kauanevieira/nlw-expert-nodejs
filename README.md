@@ -42,4 +42,18 @@ npm i fastify
 
 ## Banco de dados
 
+```sh
+npm i prisma -D
+npx prisma init
+npx prisma migrate dev
+npx prisma studio
+```
+
 ## Docker
+
+## Zod
+
+```sh
+npm install zod
+```
+
